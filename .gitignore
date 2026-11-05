@@ -1,2 +1,5 @@
 .venv/
 *.csv
+landing_keys.json
+data/
+face_tmp.jpg
